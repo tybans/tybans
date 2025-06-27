@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taiyab Ansari
-- 👀 I’m interested in FrontEnd & BackEnd both
-- 🌱 I’m currently working as Full Stack Developer.
+- 👀 I’m mostly interested in BackEnd Development.
+- 🌱 I’m currently working as a Software Engineer Trainee.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:LinkedIn:- ("https://www.linkedin.com/in/taiyab-ansari-9036a3250/")
 
